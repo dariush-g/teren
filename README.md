@@ -1,7 +1,8 @@
 # Teren
 
 
-## A very small terminal graphics library
+### Teren is a very small terminal graphics library written in C
 
+## Example: 
 ![Example](assets/cube)
 
